@@ -20,7 +20,7 @@
 
 1、HTML5 ：最新版本的HTML语言，含旧标签和32个新标签
 
-![image-20220309225517667](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220309225517667.png)
+![image-20220309225517667](E:\TXT\Blogimge\image-20220309225517667.png)
 
 2、H5 是手机页面不是HTML5 。
 
@@ -82,7 +82,7 @@ id=xxx
 
 * 使用HTML5验证器（在线/npm）[https://validator.w3.org](https://validator.w3.org/) （没法用 不知道为什么）
 
-  ![image-20220310135643304](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220310135643304.png)
+  ![image-20220310135643304](E:\TXT\Blogimge\image-20220310135643304.png)
 
   选择“Validate by Dtrect Input”,粘贴代码点击按钮“Check”
 
@@ -100,7 +100,7 @@ id=xxx
 
 在goolg搜索 mbn ruby 
 
-![image-20220310142129323](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220310142129323.png)
+![image-20220310142129323](E:\TXT\Blogimge\image-20220310142129323.png)
 
 ![image-20220310142349894](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220310142349894.png)
 

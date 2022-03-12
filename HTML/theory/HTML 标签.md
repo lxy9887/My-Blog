@@ -4,7 +4,7 @@
 
 #### 英语小课堂
 
-![image-20220310143336790](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220310143336790.png)
+![image-20220310143336790](E:\TXT\Blogimge\image-20220310143336790.png)
 
 heading          标题                      order     顺序秩序
 
@@ -45,7 +45,7 @@ VScode 插件 ：Prettier
 
 Vscode中起手式的快捷打开方式，! +tab
 
-![image-20220310192335907](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220310192335907.png)
+![image-20220310192335907](E:\TXT\Blogimge\image-20220310192335907.png)
 
 ```html
 <!DOCTYPE html> <!--文档类型-->
@@ -165,7 +165,7 @@ contextmenu ：规定元素的上下文菜单，上下文菜单在用户点击�
 
 2. **contenteditable**
 
-![image-20220310222737875](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220310222737875.png)
+![image-20220310222737875](E:\TXT\Blogimge\image-20220310222737875.png)
 
 如果把style 放在head 外面会如何？
 
@@ -214,11 +214,11 @@ contextmenu ：规定元素的上下文菜单，上下文菜单在用户点击�
 </html>
 ```
 
-![image-20220310224905995](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220310224905995.png)
+![image-20220310224905995](E:\TXT\Blogimge\image-20220310224905995.png)
 
 3.  **hindden 隐藏**
 
-![image-20220310231427955](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220310231427955.png)
+![image-20220310231427955](E:\TXT\Blogimge\image-20220310231427955.png)
 
 4. **id**
 
@@ -349,11 +349,11 @@ contextmenu ：规定元素的上下文菜单，上下文菜单在用户点击�
 
 知识点：如果一行文字太多想用省略号来代替 在head 里面输入一下三个代码
 
-![image-20220310235025056](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220310235025056.png)
+![image-20220310235025056](E:\TXT\Blogimge\image-20220310235025056.png)
 
 7. title 指的是鼠标放在文字上所显示的内容
 
-![image-20220310235852120](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220310235852120.png)
+![image-20220310235852120](E:\TXT\Blogimge\image-20220310235852120.png)
 
 ```html
 <!DOCTYPE html>
@@ -409,7 +409,7 @@ contextmenu ：规定元素的上下文菜单，上下文菜单在用户点击�
 
 在elements style{}中输入css 语法 就可以实现对HTML传统样式的更改。
 
-![image-20220312110921566](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220312110921566.png)
+![image-20220312110921566](E:\TXT\Blogimge\image-20220312110921566.png)
 
 css rest 就是 把HTML原有的样式进行更改
 
@@ -426,7 +426,7 @@ border-spacing:0;
 }
 ```
 
-![image-20220312123611013](C:\Users\Maid\AppData\Roaming\Typora\typora-user-images\image-20220312123611013.png)
+![image-20220312123611013](E:\TXT\Blogimge\image-20220312123611013.png)
 
 #### 内容标签
 
@@ -452,7 +452,7 @@ border-spacing:0;
          
    ```
 
-   ![image-20220312132324331](E:\TXT\My-Blog\HTML\theory\HTML 标签.assets\image-20220312132324331.png)
+   ![image-20220312132324331](E:\TXT\Blogimge\image-20220312132324331.png)
 
 2. ul+li  无序列表
 
@@ -474,7 +474,7 @@ border-spacing:0;
                
    ```
 
-   ![image-20220312132909846](E:\TXT\My-Blog\HTML\theory\HTML 标签.assets\image-20220312132909846.png)
+   ![image-20220312132909846](E:\TXT\Blogimge\image-20220312132909846.png)
 
 3. dl+dt+dd
 
@@ -495,7 +495,7 @@ border-spacing:0;
            工作内容</pre></h2>
    ```
 
-   ![image-20220312133632129](E:\TXT\My-Blog\HTML\theory\HTML 标签.assets\image-20220312133632129.png)
+   ![image-20220312133632129](E:\TXT\Blogimge\image-20220312133632129.png)
 
 5. hr 用来做分割线 （单）
 
@@ -516,7 +516,7 @@ border-spacing:0;
 
 8. a 网址
 
-   ![image-20220312134739208](E:\TXT\My-Blog\HTML\theory\HTML 标签.assets\image-20220312134739208.png)
+   ![image-20220312134739208](E:\TXT\Blogimge\image-20220312134739208.png)
 
 ```html
 <p>
@@ -529,5 +529,5 @@ border-spacing:0;
 11. quote 引用的意思 
 12. blockqute 是一种一整块引用的意思
 
-![image-20220312135525539](E:\TXT\My-Blog\HTML\theory\HTML 标签.assets\image-20220312135525539.png)
+![image-20220312135525539](E:\TXT\Blogimge\image-20220312135525539.png)
 
