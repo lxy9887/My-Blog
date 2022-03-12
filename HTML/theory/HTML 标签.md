@@ -430,3 +430,104 @@ border-spacing:0;
 
 #### 内容标签
 
+1. ol+li  有顺序列表
+
+   ```html
+   
+   <body>
+     <div>
+       <main>
+         <h1>前端是什么</h1>
+         <section>
+           <h2>第一章：工作内容</h2>
+           <p>前端每天要做的事情有</p>
+           <ol><!--ordered list 有顺序的列表-->
+             <li>发邮件</li> 
+             <li>跟产品经历沟通</li>
+             <li>写页面</li>
+             <li>打lol</li><!--list item ol只能还有li-->
+           </ol>
+     </div>
+   </body>
+         
+   ```
+
+   ![image-20220312132324331](E:\TXT\My-Blog\HTML\theory\HTML 标签.assets\image-20220312132324331.png)
+
+2. ul+li  无序列表
+
+   ```html
+   <body>
+     <div>
+       <main>
+         <h1>前端是什么</h1>
+         <section>
+           <h2>第一章：工作内容</h2>
+           <p>前端每天要做的事情有</p>
+   <ul> <!--unordered list 没有顺序的列表-->
+             <li>写作业</li>
+             <li>打游戏</li>
+             <li>查资料</li>
+           </ul>
+      </div>
+   </body>
+               
+   ```
+
+   ![image-20220312132909846](E:\TXT\My-Blog\HTML\theory\HTML 标签.assets\image-20220312132909846.png)
+
+3. dl+dt+dd
+
+   ```html
+   <dl> <!--表述列表-->
+             <dt>思思</dt> <!--表述东西-->
+               <dd>大美女</dd><!--表述内容-->
+   </dl>
+   ```
+
+4. pre （由于默认多个连续的空白都显示一个空, 所以加上pre就可以实现 与代码操作相同）
+
+   ```html
+     <h2><pre>第一章：   
+           
+           
+           
+           工作内容</pre></h2>
+   ```
+
+   ![image-20220312133632129](E:\TXT\My-Blog\HTML\theory\HTML 标签.assets\image-20220312133632129.png)
+
+5. hr 用来做分割线 （单）
+
+6. code （写代码时，代码字母等宽，且默认不会换行 ）
+
+   这里一般是pre 包裹 code
+
+   ```html
+    <pre>
+           <code>
+             var a =1
+             console.log(a)     
+           </code>
+    </pre>
+   ```
+
+7. br 换行使用（单）
+
+8. a 网址
+
+   ![image-20220312134739208](E:\TXT\My-Blog\HTML\theory\HTML 标签.assets\image-20220312134739208.png)
+
+```html
+<p>
+          访问网站<a href="http://qq.com" target="-blank">qq</a>  <!--这里target 是只用新窗口打开-->
+</p>
+```
+
+9. em 强调句子成分，抢到某件事
+10. strong 是语气强调
+11. quote 引用的意思 
+12. blockqute 是一种一整块引用的意思
+
+![image-20220312135525539](E:\TXT\My-Blog\HTML\theory\HTML 标签.assets\image-20220312135525539.png)
+
